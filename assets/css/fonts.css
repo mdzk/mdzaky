@@ -1,0 +1,66 @@
+/*Include*/
+@font-face {
+	font-family: 'beyond';
+	src: url('../../assets/fonts/beyond.ttf');
+}
+
+@font-face {
+	font-family: 'budhandb';
+	src: url('../../assets/fonts/budhandbold.ttf');
+}
+
+@font-face {
+	font-family: 'back';
+	src: url('../../assets/fonts/back.ttf');
+}
+
+@font-face {
+	font-family: 'OpenSans-Regular';
+	src: url('../../assets/fonts/OpenSans-Regular.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-Light';
+	src: url('../../assets/fonts/OpenSans-Light.ttf');
+}
+@font-face {
+	font-family: 'OpenSans-Bold';
+	src: url('../../assets/fonts/OpenSans-Bold.ttf');
+}
+@font-face {
+	font-family: 'lato-black';
+	src: url('../../assets/fonts/Lato-Black.ttf');
+}
+@font-face {
+	font-family: 'tahoma';
+	src: url('../../assets/fonts/tahoma.ttf');
+}
+
+/*Mina*/
+/* bengali */
+@font-face {
+  font-family: 'Mina';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../assets/fonts/Mina-Regular.ttf');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Mina';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../../assets/fonts/Mina-Regular.ttf');
+}
+/* bengali */
+@font-face {
+  font-family: 'Mina';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../../assets/fonts/Mina-Bold.ttf');
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Mina';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../../assets/fonts/Mina-Bold.ttf');
+}
